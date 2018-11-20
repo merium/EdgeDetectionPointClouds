@@ -1,1 +1,1 @@
-# Edge-Corner-Detection-Point-Clouds
+# Edge-Detection-Point-Clouds
